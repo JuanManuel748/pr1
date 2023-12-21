@@ -1,0 +1,1 @@
+Lo que ocurre es que el archivo deja de actualizarse en ORIGIN, la diferencia de borrarlo es que ya no tienes el archivo en LOCAL pero tienes la ultima version en ORIGIN
